@@ -1,0 +1,17 @@
+WEBVTT
+
+00:00:00.138 --> 00:00:03.500
+With some help from the pgvector extension you can leverage
+
+00:00:03.513 --> 00:00:07.600
+PostgreSQL as a vector database to store and query OpenAI
+
+00:00:07.612 --> 00:00:12.375
+embeddings OpenAI embeddings are a type of data representation in
+
+00:00:12.387 --> 00:00:15.812
+the shape of vectors i.e. lists of numbers used to
+
+00:00:15.825 --> 00:00:19.125
+measure the similarity of text strings for OpenAI’s models
+
